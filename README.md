@@ -1,0 +1,2 @@
+# moblilenetAndshufflenet
+this test demo
